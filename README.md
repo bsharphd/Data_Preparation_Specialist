@@ -19,7 +19,7 @@ Build data connections and transformations to drive insights and AI-powered stor
   *   [Solution](https://github.com/bsharphd/Data_Preparation_Specialist/wiki/7.1-Determine-Optimal-Climates)
 * Challenge 6
   *   [Instructions](https://github.com/bsharphd/Data_Preparation_Specialist/wiki/8.-Business-Requirements-Parts-6)
-  *   [Solution](
+  *   [Solution](https://github.com/bsharphd/Data_Preparation_Specialist/wiki/8.1-Diagnose-and-Troubleshoot-an-Unsuccessful-Data-Load)
 
 
 **Solutions maintained in private repository**
