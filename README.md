@@ -14,7 +14,9 @@ Build data connections and transformations to drive insights and AI-powered stor
 * Challenge 4
   *   [Instructions](https://github.com/bsharphd/Data_Preparation_Specialist/wiki/6.-Business-Requirements-Part-4)
   *   [Solution](https://github.com/bsharphd/Data_Preparation_Specialist/wiki/6.1-Control-Who-Sees-What)
-
+* Challenge 5
+  *   [Instructions](https://github.com/bsharphd/Data_Preparation_Specialist/wiki/7.-Business-Requirements-Part-5)
+  *   [Solution](https://github.com/bsharphd/Data_Preparation_Specialist/wiki/6.1-Determine-Optimal-Climates)
 
 
 **Solutions maintained in private repository**
